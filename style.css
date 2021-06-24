@@ -1,0 +1,15 @@
+.game-card {
+  height: 100vh;
+  font-family: 'Open Sans', monospace;
+}
+.card {
+  width: 500px;
+  height: 400px;
+}
+.value div {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 10px auto;
+  justify-content: space-between;
+}
